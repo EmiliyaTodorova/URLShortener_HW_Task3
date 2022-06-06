@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "URLShortener_HW_Task3", "URLShortener_HW_Task3.csproj", "{0ACB1A8E-8FAF-4F06-A427-93E7622F63AB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "automatedSeleniumUITests", "..\automatedSeleniumUITests\automatedSeleniumUITests.csproj", "{E547501F-0CED-4FF0-BC95-E67CFBDC112C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0ACB1A8E-8FAF-4F06-A427-93E7622F63AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ACB1A8E-8FAF-4F06-A427-93E7622F63AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ACB1A8E-8FAF-4F06-A427-93E7622F63AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ACB1A8E-8FAF-4F06-A427-93E7622F63AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E547501F-0CED-4FF0-BC95-E67CFBDC112C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E547501F-0CED-4FF0-BC95-E67CFBDC112C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E547501F-0CED-4FF0-BC95-E67CFBDC112C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E547501F-0CED-4FF0-BC95-E67CFBDC112C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7B3383D-4593-438E-A129-6D1B6DFD01A7}
+	EndGlobalSection
+EndGlobal
